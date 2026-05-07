@@ -85,6 +85,6 @@ tags:
 - Add CLI entrypoint runnable via Nix
 - Add GitHub Actions workflow, ideally manual dispatch plus scheduled run
 - Include dry-run mode for validation without PGDB writes
-- Emit structured logs/audit records with run id, source file, stage, status, and sanitized errors
+[]()- Emit structured logs/audit records with run id, source file, stage, status, and sanitized errors
 - Verify secrets are configured and never logged
 
