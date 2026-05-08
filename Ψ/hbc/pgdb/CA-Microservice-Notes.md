@@ -14,7 +14,6 @@ ideas:
 projects:
   - AI-Final
 tags:
-  - delta/read
 ---
 
 # CA-Microservice-Notes
