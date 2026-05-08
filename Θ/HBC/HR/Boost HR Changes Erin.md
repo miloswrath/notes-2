@@ -46,7 +46,7 @@ Erin's next project. This is now seeming much larger. Good thing it's summer
 
 ## Next action
 - [ ] Check the distribution of hr data
-	- [ ] Number of times dipping below
+	- [ ] How far are they dipping below
 	- [ ] How many times dipping below
 	- [ ] How long are they dipping below
 - [ ] Decide what a good threshold is for warning during supervised
@@ -56,3 +56,4 @@ Erin's next project. This is now seeming much larger. Good thing it's summer
 - [ ] Test!
 
 
+![[Boost HR Changes Erin 2026-05-08 14.49.59.excalidraw]]
