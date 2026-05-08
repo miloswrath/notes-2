@@ -48,7 +48,7 @@ tags:
 ---
 
 ~~***Initialize Fetching + Discovery Logic***~~
-- Fetch candidate files from `HBClab/boost-beh` `/meta`
+- Fetch candidate files from `HBClab/boost-beh` `/meta` testing
 - Use a configurable source ref/branch, not hardcoded `tree/main/meta`
 - Handle GitHub pagination, retries, transient errors, and rate limits
 - Compute source metadata: path, file family, ref/commit, content hash
