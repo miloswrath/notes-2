@@ -54,6 +54,11 @@ tags:
 - Compute source metadata: path, file family, ref/commit, content hash
 - Emit structured dry-run output showing discovered/supported/unsupported files
 
+***MUST HAPPEN!!!***
+---
+- Fix lib with better task logic
+
+
 ***Build Drift + Audit State Logic***
 - Persist source file state and run history in PGDB audit/state tables
 - Compare current content hashes against the last successful run
