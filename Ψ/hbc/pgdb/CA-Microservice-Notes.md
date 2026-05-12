@@ -44,7 +44,7 @@ tags:
 3. Add unit tests first; add Supabase integration tests for DB read/write paths once write contract is clear.
 
 
-## Feature Lineup
+## Feature Lineup (SPECS)
 ---
 
 ~~***Initialize Fetching + Discovery Logic***~~
@@ -54,10 +54,8 @@ tags:
 - Compute source metadata: path, file family, ref/commit, content hash
 - Emit structured dry-run output showing discovered/supported/unsupported files
 
-***MUST HAPPEN!!!***
----
+~~***MUST HAPPEN!!!***
 - Fix lib with better task logic
-
 
 ***Build Drift + Audit State Logic***
 - Persist source file state and run history in PGDB audit/state tables
@@ -89,6 +87,6 @@ tags:
 - Add CLI entrypoint runnable via Nix
 - Add GitHub Actions workflow, ideally manual dispatch plus scheduled run
 - Include dry-run mode for validation without PGDB writes
-[]()- Emit structured logs/audit records with run id, source file, stage, status, and sanitized errors
+- Emit structured logs/audit records with run id, source file, stage, status, and sanitized errors
 - Verify secrets are configured and never logged
 
