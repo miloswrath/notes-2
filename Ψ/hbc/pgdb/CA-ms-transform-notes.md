@@ -30,9 +30,10 @@ So the immediate transform inputs are:
 - `task` -> cognitive task code / `task_id` resolution
 - `subject_id` -> `study_subject_id` resolution
 - `session` -> `session_number`
-- per-file task data columns listed above
+- per-file task data columns listed above - will require collapsing across task, subject, session, condition combos
 
 Do not wait on counterbalance discovery for these files; write `counterbalance = NULL`.
+
 
 ## Source Files
 ---

@@ -24,24 +24,8 @@ tags:
 
 ## Current Standing
 ---
+- [ ] Need to implement the report from RedCap and handle the duplicates
 
-- Repo: `/home/zak/work/hbc/ai/beh-pgdb`, branch `001-project-initialization`.
-- Project is in early initialization/spec phase, not implementation yet.
-- Direction is now Python 3.13 via `flake.nix`; older Go artifacts have been removed/are being ignored.
-- Canonical DB contract is `boost-pgdb` / `db-lib` from `HBClab/db-lib`, pulled through the Nix flake.
-- Intended service: GitHub Actions-scheduled microservice/CLI that reads `HBClab/boost-beh` `/meta`, detects drift since the last successful sync, and reconciles changes into Supabase PGDB safely.
-- Current written guidance exists in `feat/constitution.md`; it defines idempotent scheduled batch reconciliation, transactional PGDB writes, auditability, least-privilege secrets, and unit/integration test requirements.
-- `feat/PROJECT_GOALS.md` has a rough goal statement and needs cleanup/completion.
-- `feat/feature-initialization/spec.md` is still very incomplete and currently modified.
-- Repo has Supabase scaffold/config and CI workflow. CI runs `ruff check .` and Python tests when present.
-- No Python source implementation appears to exist yet under `src/`; next real step is to write a proper feature spec/plan/tasks for the initial metadata fetch + drift checkpoint + PGDB reconciliation path.
-
-### Near-term next steps
----
-
-1. Generate/confirm plan + tasks from the spec.
-2. Create Python package structure under `src/beh_pgdb/` with CLI, GitHub fetcher, checkpoint/drift logic, PGDB adapter, and reconciliation service.
-3. Add unit tests first; add Supabase integration tests for DB read/write paths once write contract is clear.
 
 
 ## Feature Lineup (SPECS)
@@ -54,8 +38,9 @@ tags:
 - Compute source metadata: path, file family, ref/commit, content hash
 - Emit structured dry-run output showing discovered/supported/unsupported files
 
-~~***MUST HAPPEN!!!***
-- Fix lib with better task logic
+***MUST HAPPEN!!!***
+- [x] Fix lib with better task logic
+- [ ] Add redcap report
 
 ***Build Drift + Audit State Logic***
 - Persist source file state and run history in PGDB audit/state tables
