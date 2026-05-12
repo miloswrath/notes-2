@@ -40,7 +40,7 @@ tags:
 
 ***MUST HAPPEN!!!***
 - [x] Fix lib with better task logic
-- [ ] Add redcap report
+- [x] Add redcap report
 
 ***Build Drift + Audit State Logic***
 - Persist source file state and run history in PGDB audit/state tables
