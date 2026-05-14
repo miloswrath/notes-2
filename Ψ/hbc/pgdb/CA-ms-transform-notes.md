@@ -173,7 +173,7 @@ Do not hard-code study assignment from subject-number ranges in the transform se
 
 Historical migration range notes:
 
-- `7000-7699` -> `BOOST_OBS`
+k- `7000-7699` -> `BOOST_OBS`
 - `7700-7999` -> `BOOST_OO`
 - `8000+` -> `BOOST_INT`
 - documented carryover subjects `sub-6011` and `sub-6013` map to `BOOST_OBS`
