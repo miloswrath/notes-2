@@ -4,9 +4,12 @@
 - Cisco merged Meraki with Catalyst in 2023, unifying multiple arms into cisco wireless
 - Meraki closed per-device pricing due to their largest customer profile being mid-market.
 - Meraki is most criticised for its pricing, not necessarily their support.
-- Meraki excels in mid-size due to its ease of use.
+- License expiry leads to "bricked" devices
+- Meraki excels in mid-size due to its ease of use (look for simplicity not configurability).
 - Meraki has less presence in countries outside the US and Western Europe (Huawei)
-- 
+```
+Meraki publicly lists, and aggressively markets to: **K-12 Education, Higher Education, Retail, Healthcare, Hospitality, Manufacturing/Industrial, Financial Services, Government (including FedRAMP Moderate authorized in 2025), Event Venues, Service Provider**. Highest-density customer concentration is in **retail/multi-site hospitality** (the "1,700 restaurants, pubs, and corporate offices" centrally managed reference customer) and **K-12 education** (large districts and independents — Meraki for K-12 is one of the most heavily-resourced solution kits).
+```
 
 # Cisco Meraki — Deep Research Report
 
