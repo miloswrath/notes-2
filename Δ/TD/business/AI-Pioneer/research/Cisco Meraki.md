@@ -2,6 +2,11 @@
 ## What I found to be Important
 ---
 - Cisco merged Meraki with Catalyst in 2023, unifying multiple arms into cisco wireless
+- Meraki closed per-device pricing due to their largest customer profile being mid-market.
+- Meraki is most criticised for its pricing, not necessarily their support.
+- Meraki excels in mid-size due to its ease of use.
+- Meraki has less presence in countries outside the US and Western Europe (Huawei)
+- 
 
 # Cisco Meraki — Deep Research Report
 
