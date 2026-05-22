@@ -8,6 +8,10 @@ email: "jeffersonxh@gmail.com"
 role: "Lover"
 created: "2026-05-15"
 updated: "2026-05-15"
+tags:
+  - delta/crm
+  - crm
+  - personal
 ---
 
 # Hollie Byrne

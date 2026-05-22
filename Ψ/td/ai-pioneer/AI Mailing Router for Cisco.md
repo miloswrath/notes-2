@@ -11,8 +11,20 @@ aliases:
 tags:
   - psi/execute
   - project
-related: []
-sources: []
+  - td/ai-pioneer
+  - cisco
+  - email-routing
+  - inbox-consolidation
+  - ai
+related:
+  - "[[Cisco Meraki]]"
+  - "[[Mike Hantjis - Business 201]]"
+  - "[[mike-hantjis|Mike Hantjis]]"
+  - "[[nimra-nayyar|Nimra Nayyar]]"
+  - "[[ron-bhattal|Ron Bhattal]]"
+sources:
+  - "[[Cisco Meraki]]"
+  - "[[Mike Hantjis - Business 201]]"
 links: []
 ---
 
@@ -28,7 +40,8 @@ A working project plan and pilot for an AI-powered mailing router that consolida
 - 
 
 ## Related
-- Knowledge:
+- Knowledge: [[Cisco Meraki]], [[Mike Hantjis - Business 201]]
+- People: [[mike-hantjis|Mike Hantjis]], [[nimra-nayyar|Nimra Nayyar]], [[ron-bhattal|Ron Bhattal]]
 - Ideas:
 
 ## Notes / log

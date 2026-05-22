@@ -8,10 +8,16 @@ aliases: []
 tags:
   - psi/execute
   - project
+  - hbc/pgdb
+  - hbc/boost
+  - microservice
 related:
+  - "[[ai-final|HBC PSQL AI Final]]"
   - "[[CA-Microservice-Notes]]"
   - "[[CA-ms-transform-notes]]"
-sources: []
+sources:
+  - "[[CA-Microservice-Notes]]"
+  - "[[CA-ms-transform-notes]]"
 links: []
 ---
 
@@ -71,7 +77,8 @@ What does done look like?
 - [ ] 
 
 ## Related
-- Knowledge:
+- Knowledge: [[CA-Microservice-Notes]], [[CA-ms-transform-notes]]
+- Projects: [[ai-final|HBC PSQL AI Final]]
 - Ideas:
 
 ## Notes / log

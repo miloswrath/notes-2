@@ -9,8 +9,13 @@ tags:
   - psi/execute
   - project
   - undergrads
-related: []
-sources: []
+  - hbc/boost
+  - hbc/undergrads
+  - hr-data
+related:
+  - "[[Boost HR Changes Erin]]"
+sources:
+  - "[[Boost HR Changes Erin]]"
 links: []
 ---
 

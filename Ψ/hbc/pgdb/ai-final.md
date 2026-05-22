@@ -8,12 +8,17 @@ aliases: []
 tags:
   - psi/execute
   - project
+  - hbc/pgdb
+  - hbc/boost
+  - microservice
 related:
   - "[[CA-Microservice-Notes]]"
   - "[[CA-ms-transform-notes]]"
+  - "[[Changes To Lib For CA Microservice]]"
 sources:
   - "[[CA-Microservice-Notes]]"
   - "[[CA-ms-transform-notes]]"
+  - "[[Changes To Lib For CA Microservice]]"
 links: []
 ---
 
@@ -42,7 +47,7 @@ My final gift to the lab.
 - [ ] Integrate 
 
 ## Related
-- Knowledge: [[CA-Microservice-Notes]], [[CA-ms-transform-notes]]
+- Knowledge: [[CA-Microservice-Notes]], [[CA-ms-transform-notes]], [[Changes To Lib For CA Microservice]]
 - Ideas:
 
 ## Notes / log

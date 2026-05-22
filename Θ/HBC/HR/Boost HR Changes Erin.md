@@ -10,9 +10,14 @@ aliases: []
 tags:
   - theta/write
   - idea
-related: []
+  - hbc/boost
+  - hbc/undergrads
+  - hr-data
+related:
+  - "[[Erin - Status]]"
 sources: []
-links: []
+links:
+  - "[[Boost HR Changes Erin 2026-05-08 14.49.59.excalidraw]]"
 next_action: ""
 ---
 ## Spark
@@ -36,7 +41,7 @@ Erin's next project. This is now seeming much larger. Good thing it's summer
 
 ## Connections
 - Related knowledge: 
-- Related projects: 
+- Related projects: [[Erin - Status]]
 - Adjacent ideas: 
 
 ## Development

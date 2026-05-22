@@ -1,3 +1,31 @@
+---
+created: "2026-05-07"
+updated: "2026-05-22"
+type: read
+status: seed
+confidence: medium
+aliases:
+  - Cognitive Assessment Transform Notes
+topics:
+  - cognitive assessment
+  - PGDB
+  - data transformation
+source_type: working notes
+source: "[[CA-Microservice-Notes]]"
+author: User
+related:
+  - "[[CA-Microservice-Notes]]"
+  - "[[Changes To Lib For CA Microservice]]"
+projects:
+  - "[[ai-final|HBC PSQL AI Final]]"
+tags:
+  - delta/read
+  - hbc/pgdb
+  - hbc/boost
+  - data-transform
+  - microservice
+---
+
 [[CA-Microservice-Notes]]
 
 ## Cognitive Assessment Transform Notes

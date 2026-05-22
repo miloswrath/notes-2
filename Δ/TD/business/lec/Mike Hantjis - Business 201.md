@@ -14,12 +14,16 @@ topics:
 source_type: meeting
 source: Business 201 internal session
 author: Mike Hantjis
-related: []
+related:
+  - "[[mike-hantjis|Mike Hantjis]]"
+  - "[[AI Mailing Router for Cisco]]"
 ideas: []
-projects: []
+projects:
+  - "[[AI Mailing Router for Cisco]]"
 tags:
   - delta/read
   - td/business
+  - td/ai-pioneer
 ---
 
 # Mike Hantjis - Business 201
@@ -37,9 +41,10 @@ An internal overview of business organization and operations, especially how bus
 Understanding the business structure helps AI Pioneers orient its work toward real organizational needs, stakeholders, and internal adoption patterns.
 
 ## Connections
-- Related knowledge: 
+- Related person: [[mike-hantjis|Mike Hantjis]]
+- Related knowledge: [[Cisco Meraki]]
 - Possible ideas: 
-- Relevant projects: 
+- Relevant projects: [[AI Mailing Router for Cisco]]
 
 ## Notes
 

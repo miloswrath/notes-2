@@ -8,6 +8,11 @@ email: ""
 role: "Manager"
 created: "2026-05-21"
 updated: "2026-05-21"
+tags:
+  - delta/crm
+  - crm
+  - td/synnex
+  - td/ai-pioneer
 ---
 
 # Mike Hantjis

@@ -8,6 +8,11 @@ email: ""
 role: ""
 created: "2026-05-20"
 updated: "2026-05-20"
+tags:
+  - delta/crm
+  - crm
+  - td/synnex
+  - td/dart
 ---
 
 # Zac Barnes

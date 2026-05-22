@@ -9,11 +9,17 @@ topics:
 source_type: Notes
 source:
 author: User
-related: []
-ideas:
+related:
+  - "[[CA-ms-transform-notes]]"
+  - "[[Changes To Lib For CA Microservice]]"
+ideas: []
 projects:
-  - AI-Final
+  - "[[ai-final|HBC PSQL AI Final]]"
 tags:
+  - delta/read
+  - hbc/pgdb
+  - hbc/boost
+  - microservice
 ---
 
 # CA-Microservice-Notes

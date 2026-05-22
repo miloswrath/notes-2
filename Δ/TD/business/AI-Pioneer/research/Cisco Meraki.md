@@ -1,3 +1,34 @@
+---
+created: "2026-05-22"
+updated: "2026-05-22"
+type: read
+status: seed
+confidence: medium
+aliases:
+  - Meraki
+  - Cisco Meraki
+topics:
+  - Cisco
+  - Meraki
+  - cloud-managed networking
+  - AI networking
+  - channel strategy
+source_type: research
+source: Cisco filings, Cisco/Meraki documentation, Gartner, peer review sites, Meraki Community, analyst commentary, trade press
+author: User
+related:
+  - "[[Mike Hantjis - Business 201]]"
+ideas: []
+projects:
+  - "[[AI Mailing Router for Cisco]]"
+tags:
+  - delta/read
+  - td/business
+  - td/ai-pioneer
+  - cisco
+  - cisco/meraki
+  - networking
+---
 
 ## What I found to be Important
 ---
