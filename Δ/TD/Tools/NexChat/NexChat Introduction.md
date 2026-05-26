@@ -13,26 +13,27 @@ topics:
   - business operations
 source_type: meeting
 source:
-author:
+author: Eduardo Cea
 related: []
 ideas: []
 projects: []
 tags:
   - delta/read
+  - NexChat
 ---
 
 # NexChat Day 1
 
 ## Summary
-One or two sentences capturing the core idea.
+*Overview of the NexChat platform as an AI agent building playground.*
 
 ## Key Points
-- 
-- 
-- 
+- Three main versions: Dev (for developers), Admin (for users creating agents), Normal for people conversing with agents
 
-## Why This Matters
-How this knowledge changes understanding, decisions, or future thinking.
+***Two main functionalities***:
+- Bot building - tailoring models and the chat interface
+- Topic Management - Adding reusable rag knowledge bases and APIs/MCPs
+
 
 ## Connections
 - Related knowledge: 
