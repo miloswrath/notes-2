@@ -24,15 +24,10 @@ One or two sentences capturing the core idea.
 
 ## Key Points
 - Went over the main terminology at TD Synnex (may have a document upload here)
-- 
-
-## Why This Matters
-How this knowledge changes understanding, decisions, or future thinking.
-
+- Went over some of the main screens
+- A lot of the content covered isn't immediately valuable for the AI Pioneer program
 ## Connections
 - Related knowledge: 
 - Possible ideas: 
 - Relevant projects: 
 
-## Notes
-- 
