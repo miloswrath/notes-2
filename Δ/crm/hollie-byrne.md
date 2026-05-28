@@ -22,6 +22,7 @@ tags: ""
 - [2026-05-23] Updated CRM profile: relationship: friend; status: hot; organization: GF co.; importance: high; email: jeffersonxh@gmail.com; role: Lover.
 ## Crystallized Information
 - [2026-05-15] Is the best girl ever omg wtfffff. has no kids. loves her cat Admiral Fluffington. is pursuing ABA therapy
+- [2026-05-27] B.A. in Psychology
 
 ## Recent Information
 - [2026-05-23] Came to visit me in Greenville over Memorial Day weekend.
