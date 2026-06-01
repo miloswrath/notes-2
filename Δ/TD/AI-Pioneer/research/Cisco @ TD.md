@@ -34,4 +34,5 @@ How this knowledge changes understanding, decisions, or future thinking.
 - Relevant projects: 
 
 ## Notes
-- 
+---
+***
