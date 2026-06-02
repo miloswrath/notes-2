@@ -23,7 +23,7 @@ related:
   - "[[Mike Hantjis - Business 201]]"
 ideas: []
 projects:
-  - "[[AI Mailing Router for Cisco]]"
+  - "[[AI Inbox Triage for Cisco]]"
 tags:
   - delta/read
   - td/business
@@ -44,7 +44,7 @@ Talked with Beltran about moving from academia into industry, especially how an 
   - What kinds of future roles match my values, strengths, and interests.
   - The potential fit of an **architect / solution architect** type role.
 - This conversation connects career exploration to the broader TD context in [[Mike Hantjis - Business 201]].
-- The active [[AI Mailing Router for Cisco]] project may be a useful proof point for architect-style work: translating ambiguous business needs into technical systems, stakeholder workflows, and measurable outcomes.
+- The active [[AI Inbox Triage for Cisco]] project may be a useful proof point for architect-style work: translating ambiguous business needs into technical systems, stakeholder workflows, and measurable outcomes.
 
 ## Why this matters
 Beltran may become a key DART relationship for understanding which roles are worth pursuing, what skills matter inside TD SYNNEX, and how to frame an academia-to-industry transition in a practical way.
@@ -59,7 +59,7 @@ Beltran may become a key DART relationship for understanding which roles are wor
 - [[Mike Hantjis - Business 201]] — TD business-structure context that can help translate role conversations into organizational language.
 
 ### Projects
-- [[AI Mailing Router for Cisco]] — current AI Pioneer project that could demonstrate architecture-adjacent strengths.
+- [[AI Inbox Triage for Cisco]] — current AI Pioneer project that could demonstrate architecture-adjacent strengths.
 
 ## Potential next steps
 1. **Send a follow-up note to Beltran**
@@ -78,7 +78,7 @@ Beltran may become a key DART relationship for understanding which roles are wor
    - Build a short narrative for “academia → industry” that emphasizes practical business outcomes, not just research interests.
 
 4. **Use current work as evidence**
-   - Frame [[AI Mailing Router for Cisco]] as an example of architecture-style thinking: understanding stakeholders, designing a workflow, evaluating tooling, and creating an implementable plan.
+   - Frame [[AI Inbox Triage for Cisco]] as an example of architecture-style thinking: understanding stakeholders, designing a workflow, evaluating tooling, and creating an implementable plan.
    - Identify 2–3 concrete artifacts from the project that could be shown or summarized in future DART conversations.
 
 5. **Ask for targeted introductions**

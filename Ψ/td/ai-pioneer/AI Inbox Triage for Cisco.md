@@ -1,6 +1,6 @@
 ---
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-06-02
 status: active
 due: 08/28/2026
 confidence: medium
@@ -27,6 +27,14 @@ sources:
   - "[[Mike Hantjis - Business 201]]"
 links: []
 ---
+### People & Roles
+---
+| Person | Role | Notes |
+|---|---|---|
+| ME | Team Lead |  |
+| Nimra | Product Owner |  |
+| Ron | Backend Developer |  |
+| Matt | Frontend and Architect |  |
 
 # AI Mailing Router for Cisco
 

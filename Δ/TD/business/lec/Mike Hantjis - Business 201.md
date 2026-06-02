@@ -1,6 +1,6 @@
 ---
-created: "2026-05-20"
-updated: "2026-05-20"
+created: 2026-05-20
+updated: 2026-05-20
 type: read
 status: seed
 confidence: medium
@@ -16,10 +16,10 @@ source: Business 201 internal session
 author: Mike Hantjis
 related:
   - "[[mike-hantjis|Mike Hantjis]]"
-  - "[[AI Mailing Router for Cisco]]"
+  - "[[AI Inbox Triage for Cisco]]"
 ideas: []
 projects:
-  - "[[AI Mailing Router for Cisco]]"
+  - "[[AI Inbox Triage for Cisco]]"
 tags:
   - delta/read
   - td/business
@@ -44,7 +44,7 @@ Understanding the business structure helps AI Pioneers orient its work toward re
 - Related person: [[mike-hantjis|Mike Hantjis]]
 - Related knowledge: [[Cisco Meraki]]
 - Possible ideas: 
-- Relevant projects: [[AI Mailing Router for Cisco]]
+- Relevant projects: [[AI Inbox Triage for Cisco]]
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
-created: "2026-05-22"
-updated: "2026-05-22"
+created: 2026-05-22
+updated: 2026-05-22
 type: read
 status: seed
 confidence: medium
@@ -20,7 +20,7 @@ related:
   - "[[Mike Hantjis - Business 201]]"
 ideas: []
 projects:
-  - "[[AI Mailing Router for Cisco]]"
+  - "[[AI Inbox Triage for Cisco]]"
 tags:
   - delta/read
   - td/business
