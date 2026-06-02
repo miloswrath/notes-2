@@ -22,6 +22,7 @@ related:
   - "[[mike-hantjis|Mike Hantjis]]"
   - "[[nimra-nayyar|Nimra Nayyar]]"
   - "[[ron-bhattal|Ron Bhattal]]"
+  - "[[matthew-pearson]]"
 sources:
   - "[[Cisco Meraki]]"
   - "[[Mike Hantjis - Business 201]]"
@@ -29,27 +30,42 @@ links: []
 ---
 ### People & Roles
 ---
-| Person | Role | Notes |
-|---|---|---|
-| ME | Team Lead |  |
-| Nimra | Product Owner |  |
-| Ron | Backend Developer |  |
-| Matt | Frontend and Architect |  |
+
+| Person | Role                   | Notes |
+| ------ | ---------------------- | ----- |
+| Zak    | Team Lead              |       |
+| Nimra  | Product Owner          |       |
+| Ron    | Backend Developer      |       |
+| Matt   | Frontend and Architect |       |
+
 
 # AI Mailing Router for Cisco
 
 ## Outcome
+---
+
 A working project plan and pilot for an AI-powered mailing router that consolidates Cisco-related inboxes into one triaged workflow, routes messages to the right owner or queue, and preserves enough auditability for human review.
 
 ## Next actions
 - 
 
 ## Milestones
-- 
+---
+
+1. **Gather and Validate Business Requirements**
+
+2. **Architect Solution and Validate**
+   
+3. **Develop Solution & Deploy to UAT**
+
+4. **QA & Final User Testing**
+
+5. **Full deployment**
+
 
 ## Related
 - Knowledge: [[Cisco Meraki]], [[Mike Hantjis - Business 201]]
-- People: [[mike-hantjis|Mike Hantjis]], [[nimra-nayyar|Nimra Nayyar]], [[ron-bhattal|Ron Bhattal]]
+- People: [[mike-hantjis|Mike Hantjis]], [[nimra-nayyar|Nimra Nayyar]], [[ron-bhattal|Ron Bhattal]], [[matthew-pearson]]
 - Ideas:
 
 ## Notes / log
