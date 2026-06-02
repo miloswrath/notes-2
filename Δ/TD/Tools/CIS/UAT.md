@@ -33,8 +33,12 @@ How this knowledge changes understanding, decisions, or future thinking.
 - Possible ideas: 
 - Relevant projects: 
 
-## Notes
+# Notes
+---
+## UAT Fundamentals
+---
+*Definition*: UAT is the testing environment for **CIS**
 
-***What is UAT?***
-- Uat is the testing environment for CIS
--
+***Things UAT is used for***
+- Learning new programs and functionalities
+- 
