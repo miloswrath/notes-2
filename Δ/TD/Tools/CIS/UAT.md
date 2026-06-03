@@ -1,6 +1,6 @@
 ---
-created: "2026-06-02"
-updated: "2026-06-02"
+created: 2026-06-02
+updated: 2026-06-02
 type: read
 status: seed
 aliases:
@@ -13,7 +13,7 @@ topics:
   - user acceptance testing
   - testing environments
 source_type: internal notes
-source:
+source: brain
 author:
 related:
   - "[[CIS Training 1]]"
