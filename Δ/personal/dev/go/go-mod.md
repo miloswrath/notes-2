@@ -26,6 +26,8 @@ tags:
 ## Summary
 `go.mod` is the manifest for a Go module: it names the module, declares the Go version, and records dependency requirements. Treat it as the project’s dependency contract, while `go.sum` verifies the downloaded module contents.
 
+Testing git push for better commit graph lmao
+
 ## Key Points
 - Core directives: `module`, `go`, and `require`.
 - Prefer `go get` and `go mod tidy` over manual dependency edits.
