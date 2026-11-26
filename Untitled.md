@@ -1,0 +1,1 @@
+![[Untitled 2026-10-27 17.29.02.excalidraw]]
